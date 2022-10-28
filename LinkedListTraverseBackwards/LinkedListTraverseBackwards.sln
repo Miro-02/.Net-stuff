@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListTraverseBackwards", "LinkedListTraverseBackwards.csproj", "{AAAEB891-C9F2-41F5-9003-96A88D80EC5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAAEB891-C9F2-41F5-9003-96A88D80EC5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAAEB891-C9F2-41F5-9003-96A88D80EC5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAAEB891-C9F2-41F5-9003-96A88D80EC5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAAEB891-C9F2-41F5-9003-96A88D80EC5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D93EBF09-F56C-4C71-8D70-E8A3E704CD5C}
+	EndGlobalSection
+EndGlobal

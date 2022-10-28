@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthomaticSendingEmail3", "AuthomaticSendingEmail3.csproj", "{FF9CA210-42D5-45D0-8AB9-9098C0201617}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9AF659D1-2A02-4574-8818-EC2D6E3ACDE4}"
+	ProjectSection(SolutionItems) = preProject
+		ApplicationDbContext.cs = ApplicationDbContext.cs
+		ApplicationUser.cs = ApplicationUser.cs
+		Event.cs = Event.cs
+		UsersEvents.cs = UsersEvents.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF9CA210-42D5-45D0-8AB9-9098C0201617}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF9CA210-42D5-45D0-8AB9-9098C0201617}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF9CA210-42D5-45D0-8AB9-9098C0201617}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF9CA210-42D5-45D0-8AB9-9098C0201617}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBCBC4CE-0695-4CFD-9395-9A30466B91C1}
+	EndGlobalSection
+EndGlobal
