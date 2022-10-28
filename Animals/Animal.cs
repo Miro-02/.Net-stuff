@@ -43,7 +43,7 @@ namespace Animals
         /// <summary>
         /// This method is used when the health points of the animal get below 1, marks that the animal is dead, and prints it in the console
         /// </summary>
-        public void Die()
+        private void Die()
         {
             IsDead = true;
             Console.WriteLine($"{name} has died.");
